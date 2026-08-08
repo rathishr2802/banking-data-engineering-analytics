@@ -1,0 +1,101 @@
+branch_id,branch_name,branch_code,ifsc_code,city,state,region,address,manager_name,phone,email,opened_date
+BR001,Kavali Branch,BRC0001,ABCB0000001,Pimpri-Chinchwad,Telangana,West,"H.No. 75, Chaudhary Road, Udaipur-451782",Baljiwan Khosla,9150202673,udantdasgupta@arya.com,2018-08-03
+BR002,Berhampur Branch,BRC0002,ABCB0000002,Mehsana,Punjab,West,"H.No. 222, Mani, Shahjahanpur-722247",Upkaar Ramaswamy,7203167246,viraj46@kata.biz,2007-04-11
+BR003,Deoghar Branch,BRC0003,ABCB0000003,Morena,Andhra Pradesh,South,"27, Acharya Zila, Sambalpur-052587",Warda Chawla,2365451900,bakshiaashi@chauhan.com,2011-06-17
+BR004,Ghaziabad Branch,BRC0004,ABCB0000004,Bulandshahr,Tamil Nadu,West,"H.No. 479, Kale Nagar, Machilipatnam-920445",Shivani Gulati,5788792607,ayaansood@kala.com,2020-07-03
+BR005,Chennai Branch,BRC0005,ABCB0000005,Bhilai,Andhra Pradesh,East,"96, Kale Ganj, Raurkela Industrial Township 984180",Praneel Nair,4036763755,ryan46@sule.net,2003-01-16
+BR006,Anantapur Branch,BRC0006,ABCB0000006,Nagpur,Andhra Pradesh,North,"91, Sen Nagar, Noida-466180",Advika Prashad,8985197476,agrawalharish@khanna-maharaj.net,2014-12-01
+BR007,Raiganj Branch,BRC0007,ABCB0000007,Dewas,West Bengal,North,"H.No. 10, Ben Zila, Miryalaguda-779278",Bhanumati Atwal,6184318538,radharau@wason.com,2021-11-02
+BR008,Agra Branch,BRC0008,ABCB0000008,Bijapur,Telangana,West,"95/80, Venkataraman Path, Dibrugarh 393348",Udyati Bail,8425905870,vartygirik@murty.info,2024-12-20
+BR009,Danapur Branch,BRC0009,ABCB0000009,Proddatur,Karnataka,North,"H.No. 82, Bhakta, Mangalore 252417",Sathvik Pathak,0631800932,bassikabir@mohan.org,2025-04-10
+BR010,Asansol Branch,BRC0010,ABCB0000010,Naihati,Tamil Nadu,South,"H.No. 40, Gole, Burhanpur-738206",Banjeet Gera,8287364062,chandadaksh@lanka.org,2021-06-06
+BR011,Mumbai Branch,BRC0011,ABCB0000011,Ghaziabad,West Bengal,North,"H.No. 387, Brahmbhatt, Karnal 418549",Samuel Dayal,7144869642,daksha25@sengupta.info,2006-04-28
+BR012,Ambala Branch,BRC0012,ABCB0000012,Patiala,Punjab,West,"00, Chandran Path, Bihar Sharif 616736",Ikshita Dugar,8757611912,aggarwalbakhshi@tripathi.biz,2002-06-12
+BR013,Nagercoil Branch,BRC0013,ABCB0000013,Dehradun,Tamil Nadu,South,"H.No. 90, Karan Path, Siwan-873275",Hamsini Hayre,7292011094,sachi82@devi.com,2009-06-20
+BR014,Mau Branch,BRC0014,ABCB0000014,Rewa,Delhi,West,"014, Mukherjee Zila, Deoghar-307621",Max Devan,6059092932,parth61@joshi.com,2023-11-11
+BR015,Siwan Branch,BRC0015,ABCB0000015,Ghaziabad,Andhra Pradesh,North,"34/953, Sarraf Circle, Anand 938447",Bhavani Handa,3758060761,singhalchakradev@gola-chahal.org,2021-08-25
+BR016,Siliguri Branch,BRC0016,ABCB0000016,Bellary,Telangana,North,"219, Anne Ganj, Tenali-704608",Azaan Goswami,8325003951,raaginisampath@singhal-tank.com,2012-09-04
+BR017,Nanded Branch,BRC0017,ABCB0000017,Dhanbad,Kerala,East,"69, Dayal Road, Hazaribagh-254405",Upasna Ramakrishnan,3373208340,wakeeta27@lall.com,2012-10-08
+BR018,Durgapur Branch,BRC0018,ABCB0000018,Etawah,Punjab,South,"27, Dani Path, Berhampore-931565",Chaitanya Vaidya,1219448747,lthaker@virk-setty.org,2012-10-25
+BR019,Siwan Branch,BRC0019,ABCB0000019,Mira-Bhayandar,Maharashtra,South,"576, Sani Nagar, Guwahati 419568",Raghav Singh,7201445428,anamika97@sagar.com,2006-03-10
+BR020,Sultan Pur Majra Branch,BRC0020,ABCB0000020,Morena,Maharashtra,South,"943, Kalla Chowk, Kurnool-111579",Upasna Raghavan,7466416321,wasonishita@saha.com,2001-08-26
+BR021,Nagaon Branch,BRC0021,ABCB0000021,Raiganj,West Bengal,East,"H.No. 34, Khanna, Jorhat 834910",Nimrat Brar,8821669114,vidhibail@patla.net,2001-12-28
+BR022,Kumbakonam Branch,BRC0022,ABCB0000022,Pimpri-Chinchwad,Karnataka,North,"314, Dave, Faridabad 000317",Dominic Mitra,8169977771,kainanda@deshpande-grover.com,2007-02-21
+BR023,Machilipatnam Branch,BRC0023,ABCB0000023,Salem,Punjab,North,"666, Kala Circle, Bhagalpur 800243",Chatura Comar,0817530751,narangtanvi@ratti.org,2002-02-12
+BR024,Buxar Branch,BRC0024,ABCB0000024,Mysore,Telangana,East,"79/209, Bali, Nagaon 482571",Ekanta Mukhopadhyay,9192306782,gaurangisinha@mangal-biswas.com,2019-12-02
+BR025,Guna Branch,BRC0025,ABCB0000025,Vadodara,Maharashtra,South,"H.No. 22, Kar Street, Amritsar-444841",Janaki Ravel,9429833428,priya88@mukhopadhyay.com,2021-01-20
+BR026,Akola Branch,BRC0026,ABCB0000026,Amritsar,Punjab,West,"H.No. 588, Bassi Nagar, Durgapur-561399",Jackson Prabhakar,2798301273,wakeeta10@anne.org,2001-10-04
+BR027,Panvel Branch,BRC0027,ABCB0000027,Arrah,Punjab,West,"H.No. 47, Hans Ganj, Kanpur 348898",Siddharth Sarin,3268300947,chandresh79@koshy.org,2020-02-06
+BR028,Dhule Branch,BRC0028,ABCB0000028,Sikar,Tamil Nadu,East,"H.No. 35, Pandit Circle, Hosur 947387",Lajita Sehgal,4250926485,lekha72@samra.com,2008-01-02
+BR029,Bellary Branch,BRC0029,ABCB0000029,Visakhapatnam,Maharashtra,West,"68, Peri Chowk, Bhind 688201",Girish Chakrabarti,3296017472,wtrivedi@dada.com,2007-07-21
+BR030,Surat Branch,BRC0030,ABCB0000030,Tadipatri,Karnataka,North,"87/937, Om Ganj, Gulbarga 063282",Onveer Mitter,5074083835,mbehl@sarna.org,2001-11-09
+BR031,Ozhukarai Branch,BRC0031,ABCB0000031,Madanapalle,Tamil Nadu,South,"20/104, Sandal Zila, Guwahati-028791",Brijesh Nanda,4957398687,waidavenkataraman@nagarajan.com,2021-03-08
+BR032,Bharatpur Branch,BRC0032,ABCB0000032,Thiruvananthapuram,Andhra Pradesh,West,"H.No. 94, Buch Road, Srinagar-560303",Patrick Shroff,1186441850,fkonda@hans.biz,2001-09-08
+BR033,Aurangabad Branch,BRC0033,ABCB0000033,Nadiad,West Bengal,North,"42/697, Dass Ganj, Siliguri 080335",Ekta Seth,2809805644,jvig@talwar.org,2015-11-15
+BR034,Burhanpur Branch,BRC0034,ABCB0000034,Delhi,Maharashtra,North,"H.No. 91, Narayan Circle, Jaipur-021001",Wahab Thakur,1057908141,ubika88@shukla.com,2004-04-12
+BR035,Bhusawal Branch,BRC0035,ABCB0000035,Ajmer,Karnataka,East,"83, Reddy Marg, Alappuzha 116113",Ekantika Palla,9068074563,qsoman@doshi.com,2010-09-28
+BR036,Orai Branch,BRC0036,ABCB0000036,Bhubaneswar,Tamil Nadu,South,"389, Sem Nagar, Proddatur 201100",Akshay Sen,2565651686,wyattmisra@sankaran-deo.net,2002-03-22
+BR037,Tinsukia Branch,BRC0037,ABCB0000037,Nagpur,Delhi,South,"74/171, Dewan Chowk, Mira-Bhayandar 235950",Ethan Rama,6064050206,ladlivala@parmer.com,2007-10-09
+BR038,Bhiwani Branch,BRC0038,ABCB0000038,Ludhiana,Tamil Nadu,East,"71, Mand Road, Bhiwani-565450",Jack Basu,4075872490,bassiyashica@mukhopadhyay-sem.biz,2002-09-27
+BR039,Bidar Branch,BRC0039,ABCB0000039,South Dumdum,Tamil Nadu,West,"45/74, De, Kolhapur-366775",Gavin Sachdev,1155883496,batramaya@dewan-mohan.com,2003-02-12
+BR040,Karawal Nagar Branch,BRC0040,ABCB0000040,Belgaum,Delhi,East,"81/18, Sahota Nagar, Ahmednagar 370043",Nicholas Venkatesh,1931150807,yachana32@kunda.net,2012-03-16
+BR041,Hospet Branch,BRC0041,ABCB0000041,Gandhidham,Karnataka,South,"H.No. 34, Aggarwal Path, Bareilly-499642",Avni Kannan,8220648589,rajeshri16@vyas.com,2013-07-04
+BR042,Pune Branch,BRC0042,ABCB0000042,Ahmednagar,Punjab,East,"02, Thakur Chowk, Nashik 135367",Wyatt Manda,5371091678,finn56@bhargava.net,2002-09-04
+BR043,Muzaffarnagar Branch,BRC0043,ABCB0000043,Kottayam,Maharashtra,South,"50, Balasubramanian Chowk, Bokaro-998889",Hitesh Bera,7637325549,aadinayak@rajagopalan.com,2004-02-18
+BR044,Rajkot Branch,BRC0044,ABCB0000044,Kharagpur,Karnataka,North,"H.No. 11, Madan Street, Rajpur Sonarpur 660493",Irya Nadkarni,2626161642,nagytanish@varughese-seshadri.biz,2014-03-24
+BR045,Tezpur Branch,BRC0045,ABCB0000045,Srikakulam,Kerala,West,"H.No. 82, Sagar Nagar, Narasaraopet 943338",Ikbal Ravel,4128576751,oviya94@sastry-bawa.biz,2001-08-22
+BR046,Mango Branch,BRC0046,ABCB0000046,Giridih,Karnataka,North,"00/01, Tara Street, Durg-778233",Reva Gole,1626253861,zthakur@chhabra.org,2014-05-27
+BR047,Pondicherry Branch,BRC0047,ABCB0000047,Bhagalpur,Andhra Pradesh,South,"28/883, Kala Zila, Madhyamgram 784368",Raghav Mody,8837025291,chatresh33@mangal.com,2008-03-11
+BR048,Tumkur Branch,BRC0048,ABCB0000048,Surat,Gujarat,West,"H.No. 524, Trivedi Road, Guntur 616348",Chavvi Kuruvilla,6041263139,chavvidara@rastogi-saxena.org,2012-09-15
+BR049,Patna Branch,BRC0049,ABCB0000049,Tinsukia,Gujarat,North,"473, Ray, Jodhpur-167175",Jhalak Sridhar,0211347972,purohitsachi@sanghvi.biz,2015-09-01
+BR050,Silchar Branch,BRC0050,ABCB0000050,Serampore,West Bengal,East,"H.No. 776, Barad Zila, Faridabad-031728",Vrishti Bhatt,9083505115,iupadhyay@sandal-butala.com,2018-06-17
+BR051,Rajpur Sonarpur Branch,BRC0051,ABCB0000051,Latur,Gujarat,West,"775, Korpal Path, Naihati-015131",Hemani Rai,9611124957,vdhaliwal@nigam-vasa.com,2025-02-18
+BR052,Kurnool Branch,BRC0052,ABCB0000052,Bhopal,West Bengal,North,"H.No. 06, Padmanabhan Circle, Pondicherry-392555",Devansh Misra,3851901104,gautami69@parsa.com,2002-04-13
+BR053,Vasai-Virar Branch,BRC0053,ABCB0000053,Bally,Andhra Pradesh,West,"H.No. 96, Kala Marg, Kurnool-217956",Yochana Banerjee,6693831978,modiishanvi@narain.biz,2020-03-31
+BR054,Sirsa Branch,BRC0054,ABCB0000054,Karnal,Kerala,South,"H.No. 168, Dugar Circle, Pudukkottai 934655",Harshil Rama,3045457388,kohliwarinder@tailor-swaminathan.net,2006-03-24
+BR055,Pimpri-Chinchwad Branch,BRC0055,ABCB0000055,Gwalior,Telangana,East,"80/848, Bakshi Road, Nangloi Jat-439656",Jyoti Oza,2380137367,raghav78@deshmukh.net,2017-01-26
+BR056,Thoothukudi Branch,BRC0056,ABCB0000056,Mirzapur,Delhi,East,"89/41, Goda Road, Salem 028285",Warda Vala,5487740224,chandani56@biswas.com,2005-02-18
+BR057,Tumkur Branch,BRC0057,ABCB0000057,Maheshtala,Punjab,South,"830, Jaggi Marg, Hubli–Dharwad-806928",Mahika Shan,0000907136,spuri@savant.com,2022-05-05
+BR058,Panipat Branch,BRC0058,ABCB0000058,Cuttack,Maharashtra,South,"53, Kumar Marg, Hubli–Dharwad-805276",Frederick Narayanan,1406234746,rehaanbumb@patla-mistry.info,2008-07-30
+BR059,Kozhikode Branch,BRC0059,ABCB0000059,Singrauli,Punjab,East,"56/26, Sarna Street, Nadiad 251727",Rajata Dhillon,5742992005,odutt@vyas-anand.info,2004-02-29
+BR060,Bongaigaon Branch,BRC0060,ABCB0000060,Ichalkaranji,Andhra Pradesh,West,"86, Kalla Circle, Asansol 228972",Orinder Parmar,1116635899,charan58@saran-sundaram.net,2012-02-27
+BR061,Hospet Branch,BRC0061,ABCB0000061,Warangal,Telangana,West,"H.No. 62, Pillay Circle, Tenali-229892",Vyanjana Sangha,3128436185,shaurya22@rajagopalan-randhawa.com,2012-05-30
+BR062,Pali Branch,BRC0062,ABCB0000062,Rajpur Sonarpur,Telangana,East,"07/149, Ramanathan Ganj, Panipat 953789",Abhimanyu Dugar,9025408819,bansalsara@bath-tata.com,2017-10-24
+BR063,Kishanganj Branch,BRC0063,ABCB0000063,Dharmavaram,Punjab,East,"64, Barad Zila, Secunderabad-662529",Gautam Kunda,8113708975,mistryraagini@tata.com,2023-01-19
+BR064,Lucknow Branch,BRC0064,ABCB0000064,Suryapet,Telangana,East,"29/650, Pradhan Path, Phagwara 023610",Abdul Bobal,1993063080,zilmil46@bhargava.net,2014-09-25
+BR065,Varanasi Branch,BRC0065,ABCB0000065,Thrissur,Punjab,North,"12/404, Das Marg, Kamarhati 608201",Finn Gour,4940990313,kkonda@sibal-taneja.biz,2019-02-01
+BR066,Kharagpur Branch,BRC0066,ABCB0000066,Asansol,West Bengal,North,"50/50, Parikh Road, Tiruchirappalli-048170",Banjeet Dugal,9703329948,isaac34@johal-kade.com,2003-08-24
+BR067,Secunderabad Branch,BRC0067,ABCB0000067,Sultan Pur Majra,West Bengal,West,"70/664, Mani Nagar, Berhampur-865157",Charita Gara,7059298992,charvi86@wagle.info,2005-04-17
+BR068,Gandhidham Branch,BRC0068,ABCB0000068,Orai,Punjab,West,"H.No. 56, Bali Path, Sri Ganganagar 173791",Hemang Ray,1572105240,ucchalsaraf@raja.com,2022-10-22
+BR069,Aurangabad Branch,BRC0069,ABCB0000069,Rewa,Karnataka,East,"H.No. 315, Trivedi Ganj, Baranagar 470380",Jeevika Narayanan,5121016124,imaran78@krishnan-goda.org,2007-08-08
+BR070,Vijayanagaram Branch,BRC0070,ABCB0000070,Dehri,Andhra Pradesh,West,"49/704, Edwin Nagar, Pudukkottai-596226",Dalbir Pillay,5904668886,rrana@prakash.com,2012-08-22
+BR071,Ahmedabad Branch,BRC0071,ABCB0000071,Ghaziabad,Delhi,East,"632, Varghese Ganj, Berhampur-486663",Radhika Dar,9499694213,lalaranveer@mukhopadhyay.com,2005-05-30
+BR072,Bhavnagar Branch,BRC0072,ABCB0000072,Gwalior,Telangana,East,"H.No. 97, Sani Chowk, Phusro 885136",Gautam Behl,5083879351,morecaleb@dey.com,2011-11-14
+BR073,Mangalore Branch,BRC0073,ABCB0000073,Karawal Nagar,Telangana,North,"H.No. 36, Kakar Path, Avadi 536121",Neha Bahri,3566471639,xvarty@shere.org,2024-01-22
+BR074,Davanagere Branch,BRC0074,ABCB0000074,Firozabad,Delhi,East,"H.No. 805, Nair Ganj, Bongaigaon 668098",Indira Saha,7502506333,jagvi08@subramanian-virk.net,2015-08-12
+BR075,Chapra Branch,BRC0075,ABCB0000075,Parbhani,Punjab,West,"H.No. 407, Patil Chowk, Sri Ganganagar 947496",Eshana Karnik,0697488337,udada@anne.info,2009-04-17
+BR076,Patna Branch,BRC0076,ABCB0000076,Vellore,Gujarat,East,"H.No. 041, Madan Marg, Surat-239513",Ishanvi Mistry,5481779372,paggarwal@bhavsar.biz,2004-07-14
+BR077,Raipur Branch,BRC0077,ABCB0000077,Bangalore,Maharashtra,East,"34/95, Gade Marg, Tirunelveli-382052",Dipta Mander,5411892170,mohantyreyansh@barman-mukhopadhyay.com,2006-10-13
+BR078,Bhalswa Jahangir Pur Branch,BRC0078,ABCB0000078,Berhampur,Kerala,West,"91, Dara Zila, Gulbarga 358536",Waida Viswanathan,2782386578,laksh07@tara-gala.org,2018-10-07
+BR079,Jabalpur Branch,BRC0079,ABCB0000079,Siwan,Maharashtra,North,"H.No. 005, Jha Chowk, Vellore-893630",Wishi Ravi,9667036896,mohinitripathi@chopra-patel.org,2008-10-08
+BR080,Firozabad Branch,BRC0080,ABCB0000080,Jamnagar,West Bengal,South,"23/219, Soman Street, Kalyan-Dombivli 538924",Anika Bansal,3948089947,devisanaya@kamdar.com,2016-08-23
+BR081,Mysore Branch,BRC0081,ABCB0000081,Durgapur,Maharashtra,West,"082, Mall Road, Sonipat 076465",Frederick Radhakrishnan,7487441234,agastyasagar@raju.org,2015-03-30
+BR082,Buxar Branch,BRC0082,ABCB0000082,Dharmavaram,West Bengal,South,"87/701, Khanna, Aizawl-486524",Chavvi Ghose,6044207505,qadimlalla@jayaraman-anne.com,2010-04-17
+BR083,Sambalpur Branch,BRC0083,ABCB0000083,Sagar,West Bengal,North,"H.No. 11, Kumer Chowk, Rajpur Sonarpur-370808",Gaurangi Borde,6697558706,palaneesha@deshpande.com,2016-09-05
+BR084,Fatehpur Branch,BRC0084,ABCB0000084,Raiganj,Punjab,North,"H.No. 843, Tara Chowk, Ajmer-023849",Hemal Konda,2313128019,ekaja21@dhawan.com,2016-04-10
+BR085,Katni Branch,BRC0085,ABCB0000085,Bhopal,West Bengal,East,"87/13, Khanna Road, Howrah 096386",Abhiram Agarwal,3414835473,avi68@dash.com,2001-08-11
+BR086,Erode Branch,BRC0086,ABCB0000086,Sri Ganganagar,Telangana,North,"25, Varughese Circle, Chapra-004504",Abha Shankar,4053109374,yachana23@chowdhury.biz,2018-02-26
+BR087,Farrukhabad Branch,BRC0087,ABCB0000087,Khandwa,Karnataka,West,"H.No. 580, Sachdev Circle, Kollam 232210",Leela Barad,4734086590,chatterjeekrishna@sami.org,2011-01-22
+BR088,Gopalpur Branch,BRC0088,ABCB0000088,Agartala,Tamil Nadu,North,"607, Ghosh Marg, Rewa 937511",Sachi Apte,0626955582,anvi87@konda.com,2018-12-22
+BR089,Thiruvananthapuram Branch,BRC0089,ABCB0000089,Vijayanagaram,Andhra Pradesh,South,"H.No. 97, Gade Chowk, Amritsar-012029",Vivaan Ratta,3988398907,amruta14@gola-mittal.com,2002-06-15
+BR090,Bally Branch,BRC0090,ABCB0000090,Nanded,Karnataka,East,"H.No. 418, Sant Zila, Jamshedpur 453030",Isha Halder,8795560205,adityasood@joshi.net,2022-05-23
+BR091,Avadi Branch,BRC0091,ABCB0000091,Medininagar,Punjab,West,"53, Kaur Path, Ghaziabad-133775",Urvi Nadkarni,9529364926,jshroff@mittal.com,2025-03-06
+BR092,Lucknow Branch,BRC0092,ABCB0000092,Warangal,Telangana,East,"52/71, Som Nagar, Jalna-290861",Samaksh Madan,8997532892,gauri33@mishra.com,2007-08-04
+BR093,Proddatur Branch,BRC0093,ABCB0000093,Proddatur,Tamil Nadu,East,"89, Pau Zila, Bhavnagar-193350",Ikshita Modi,2381127260,bawasamar@samra.com,2013-08-26
+BR094,Madurai Branch,BRC0094,ABCB0000094,Tiruchirappalli,Punjab,South,"963, Srivastava Nagar, Ludhiana-006622",Zaitra Banerjee,6412730236,takpanini@bir.org,2014-12-15
+BR095,Begusarai Branch,BRC0095,ABCB0000095,Medininagar,Telangana,West,"09/512, Thaman Circle, Ambala 039257",Varsha Bir,4221073236,logan99@basak.com,2024-04-30
+BR096,Akola Branch,BRC0096,ABCB0000096,Rewa,Delhi,West,"77/721, Saini Chowk, Sasaram 890923",Reyansh Kamdar,4943016162,kashishmangat@vig.net,2011-03-12
+BR097,Malda Branch,BRC0097,ABCB0000097,Narasaraopet,Telangana,North,"720, Bobal Street, Sirsa 081599",Benjamin Dugar,4273946958,garavinaya@bumb.net,2022-06-08
+BR098,Tadepalligudem Branch,BRC0098,ABCB0000098,Amritsar,Tamil Nadu,South,"730, Pradhan Chowk, Pune 061906",Januja Jaggi,9651029247,kaleaahana@khalsa.com,2012-04-25
+BR099,Bareilly Branch,BRC0099,ABCB0000099,Karawal Nagar,Karnataka,East,"82, Yogi Zila, Madanapalle-616379",Kai Bhattacharyya,0681263550,anirudh72@chowdhury.com,2023-11-12
+BR100,Hosur Branch,BRC0100,ABCB0000100,Naihati,West Bengal,West,"38, Pillai Path, Tiruvottiyur-554052",Utkarsh Baria,8147536105,balveerbora@rastogi.biz,2015-07-18
